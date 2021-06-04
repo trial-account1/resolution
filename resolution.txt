@@ -2,6 +2,5 @@ Resolution :
 - Learn Adobe photoshop
 - Learn Adobe premeire
 - Learn javascript
-- Learn php
 - Make one website
 - exam all good
